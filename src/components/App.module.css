@@ -1,0 +1,15 @@
+.container {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    font-family: Arial, sans-serif;
+}
+
+.title {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 24px;
+}
